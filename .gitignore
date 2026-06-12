@@ -19,3 +19,8 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Large data files
+*.csv
+*.zip
+seven/jena_climate_2009_2016.csv
